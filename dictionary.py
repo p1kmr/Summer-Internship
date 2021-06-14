@@ -1,5 +1,5 @@
 dict = {
-    "name": "NIRAV MOJAGAR",
+    "name": "Saw Pawan",
     "Age": 21,
     "Sem": 7,
     "College": "GEC"
